@@ -31,10 +31,10 @@
     <!-- Navbar Picker -->
     <string name="theme_navbar_picker_title">Navbar style</string>
     <string name="theme_navbar_picker_summary">Select navbar style</string>
-    <string name="theme_navbar_picker_oneplus">OnePlus</string>
-    <string name="theme_navbar_picker_oneui">One UI</string>
-    <string name="theme_navbar_picker_tecno">Tecno Camon</string>
-    <string name="theme_navbar_picker_asus">ASUS</string>
+    <string name="theme_navbar_picker_oneplus" translatable="false">OnePlus</string>
+    <string name="theme_navbar_picker_oneui" translatable="false">One UI</string>
+    <string name="theme_navbar_picker_tecno" translatable="false">Tecno Camon</string>
+    <string name="theme_navbar_picker_asus" translatable="false">ASUS</string>
 
     <!-- Dark theme -->
     <string name="dark_theme_title">Dark theme</string>
